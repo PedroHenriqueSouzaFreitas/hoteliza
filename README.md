@@ -43,9 +43,9 @@ src ├── main │ ├── java │ │ └── phenrique │ │ └─
     ./mvnw spring-boot:run
    ```
 ## Contribuidores
+Agradecemos a todos os contribuidores que ajudaram a desenvolver este projeto:
 
-## Pedro Henrique
-## Rujélio Lima
-## Davi Alvez
-## Iago Texeira
- 
+- **Pedro Henrique**
+- **Rujélio Lima**
+- **Davi Alvez**
+- **Iago Texeira**
