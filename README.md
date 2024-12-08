@@ -36,7 +36,7 @@ src ├── main │ ├── java │ │ └── phenrique │ │ └─
 ## Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/projeto-hoteliza.git
+   https://github.com/PedroHenriqueSouzaFreitas/hoteliza.git
 
    cd projeto Hoteliza
 
