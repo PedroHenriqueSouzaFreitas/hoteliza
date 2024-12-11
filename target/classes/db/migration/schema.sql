@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS rooms (
+id CHAR(36) PRIMARY KEY,
+hotel VARCHAR(100) NOT NULL,
+address VARCHAR(200) NOT NULL,
+number VARCHAR(10) NOT NULL,
+type VARCHAR(50) NOT NULL,
+status boolean NOT NUll
+);
+
